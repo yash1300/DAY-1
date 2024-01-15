@@ -1,1 +1,1 @@
-<a href="https://grand-concha-3ee58d.netlify.app/" target = "_blank"> ctrl + Click me</a>
+<a href="https://passuii-generator.netlify.app/" target = "_blank"> ctrl + Click me</a>
